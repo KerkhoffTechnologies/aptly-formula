@@ -1,6 +1,5 @@
 include:
-  - nginx
-  - nginx.config
+  - nginx.ng
 
 aptly_site:
   file.managed:
